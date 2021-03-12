@@ -7,6 +7,6 @@ if (mysqli_connect_errno()) {
   exit();
 }
 else{
-    echo "ได้"; //เชื่อมฐานข้อมูล
+    //echo "ได้"; //เชื่อมฐานข้อมูล
 }
 ?>
